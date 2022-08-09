@@ -96,11 +96,11 @@ p{
         flex-direction: column;
         justify-content: center;
     }
-    .box{
+    /* .box{
         width: 90%;
         height: 55%;
         margin-bottom: 10%;
-    }
+    } */
     .header{
         width: 70%;
     }
