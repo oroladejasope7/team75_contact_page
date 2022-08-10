@@ -81,7 +81,7 @@ p{
 }
 @media (max-width: 500px) {
     *{
-        font-size: small;
+        font-size: large;
         padding: 0%;
         margin: 0%;
     }
@@ -103,13 +103,14 @@ p{
     .box{
         margin-top: 50%;
         padding-top: 6%;
-        height: 100vh;
+        height: 80vh;
         width: 100%;
         margin-bottom: 6%;
         
     }
     .header{
-        width: 80%;
+        width: 100%;
+        margin-top: 15%;
     }
     input{
         height: 6vh;
@@ -125,13 +126,13 @@ p{
     }
     .img{
         margin-top: 20%;
-        height: 50vh;
-        width: 60%;
+        height: 55vh;
+        width: 70%;
     }
     .btn{
         height: 8vh;
         width: 50%;
-        border-radius: 25px;
+        border-radius: 35px;
         margin-top: 8%;
         margin-bottom: 2%;
         font-size: large;
