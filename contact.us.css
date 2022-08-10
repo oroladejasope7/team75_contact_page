@@ -109,20 +109,22 @@ p{
         width: 80%;
     }
     input{
-        height: 10vh;
+        height: 6vh;
     }
     label{
         font-size: medium;
     }
     #message{
-        height: 30vh;
+        height: 40vh;
     }
     .img{
         margin-top: -10%;
-        height: 100vh;
+        height: 70vh;
         width: 50%;
     }
     .btn{
+        height: 8vh;
+        width: 50%;
         border-radius: 25px;
         margin-top: 8%;
         margin-bottom: 2%;
