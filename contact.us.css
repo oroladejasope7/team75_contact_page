@@ -100,7 +100,7 @@ p{
     }
     .box{
         padding-top: 6%;
-        height: 80vh;
+        height: 100vh;
         width: 100%;
         margin-bottom: 6%;
         
@@ -109,19 +109,27 @@ p{
         width: 80%;
     }
     input{
-        height: 20%;
+        height: 10vh;
     }
     label{
         font-size: medium;
     }
+    #message{
+        height: 30vh;
+    }
     .img{
         margin-top: -10%;
         height: 100vh;
-        width: 90%;
+        width: 50%;
     }
     .btn{
         border-radius: 25px;
         margin-top: 8%;
         margin-bottom: 2%;
+    }
+    .justify{
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 }
