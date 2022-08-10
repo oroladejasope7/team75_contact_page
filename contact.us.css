@@ -8,12 +8,13 @@ input{
     width: 84%;
     background-color: rgb(244, 244, 244);
     margin-bottom: 4%;
-    margin-left: 6%;
+    margin-left: 4.5%;
     border: 1.5px solid transparent;
     border-radius: 4px;
     border-color: rgb(192, 192, 192);
     opacity: 0.6;
-    padding: 1.5%;
+    padding: 3%;
+    padding-left: 3%;
 }
 .first{
     margin-top: 4%;
@@ -24,12 +25,13 @@ label,button{
 #message{
     width: 84%;
     height: 32%;
-    margin-left: 6%;
+    margin-left: 4.5%;
     background-color: rgb(244, 244, 244);
     border-color: rgb(192, 192, 192);
     opacity: 0.6;
     border-radius: 4px;
-    padding: 1.5%;
+    padding: 3%;
+    padding-left: 3%;
 }
 h1{
     font-weight: 700;
@@ -68,7 +70,7 @@ p{
     padding-bottom: 2%;
 }
 .btn{
-    height: 15%;
+    height: 45%;
     width: 40%;
     background-color: #A535F1;
     color: white;
@@ -112,6 +114,7 @@ p{
         height: 6vh;
         padding: 1%;
         font-size: large;
+        padding-left: 3%;
     }
     label{
         font-size: medium;
@@ -130,6 +133,7 @@ p{
         border-radius: 25px;
         margin-top: 8%;
         margin-bottom: 2%;
+        font-size: large;
     }
     .justify{
         display: flex;
